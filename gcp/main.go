@@ -1,4 +1,4 @@
-package instance
+package gcp
 
 import (
 	"github.com/pulumi/pulumi-gcp/sdk/v5/go/gcp/compute"
