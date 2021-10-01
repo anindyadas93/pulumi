@@ -1,4 +1,4 @@
-module github.com/anindyadas93/pulumi/instance
+module github.com/anindyadas93/pulumi/tree/development/instance
 
 go 1.17
 
